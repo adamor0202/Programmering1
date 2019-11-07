@@ -75,6 +75,7 @@
             this.btnSpelaIgen.TabIndex = 2;
             this.btnSpelaIgen.Text = "Spela Igen";
             this.btnSpelaIgen.UseVisualStyleBackColor = true;
+            this.btnSpelaIgen.Click += new System.EventHandler(this.btnSpelaIgen_Click);
             // 
             // lblDator
             // 
