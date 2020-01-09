@@ -64,9 +64,9 @@
             // lblTid
             // 
             this.lblTid.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblTid.Location = new System.Drawing.Point(181, 182);
+            this.lblTid.Location = new System.Drawing.Point(143, 180);
             this.lblTid.Name = "lblTid";
-            this.lblTid.Size = new System.Drawing.Size(278, 23);
+            this.lblTid.Size = new System.Drawing.Size(278, 19);
             this.lblTid.TabIndex = 3;
             // 
             // Form1
